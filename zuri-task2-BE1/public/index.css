@@ -247,6 +247,7 @@
                 display: block;
                 padding: 35px;
                 position: relative;
+                border-radius: 0: 
             }
             .header h2{
                 margin-bottom: 15px;
@@ -260,7 +261,10 @@
             }
             .body{
                display: block;
-               padding: 35px 35px 15px;
+               padding: 30px 30px 15px;
+            }
+            form{
+               padding: 30px 30px 15px;
             }
             .input-group{
                display: block;
@@ -269,4 +273,7 @@
             .input-group > .input-field{
                width: 100%;
             }
+               footer{
+            border-radius: 0;
+           }
         }
