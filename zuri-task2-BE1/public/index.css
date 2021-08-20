@@ -157,6 +157,7 @@
         }
          form h2{
             text-align: center;
+            color: var(--main-color);
          }
         .input-group{
             display: flex;
