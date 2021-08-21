@@ -251,7 +251,8 @@
                 display: block;
                 padding: 35px;
                 position: relative;
-                border-radius: 0: 
+                border-top-left-radius: 0;
+                border-top-right-radius: 0; 
             }
             .header h2{
                 margin-bottom: 15px;
