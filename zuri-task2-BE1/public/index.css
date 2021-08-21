@@ -281,4 +281,17 @@
                footer{
             border-radius: 0;
            }
+           .block{
+            margin: 0;
+            width: 100%;
+            border-radius: 0;
+            box-shadow: 0;
+        }
+        .block img {
+            display: block;
+            width: 200px;
+            height: auto;
+            object-fit: contain;
+            margin: 20px auto;
+        }
         }
